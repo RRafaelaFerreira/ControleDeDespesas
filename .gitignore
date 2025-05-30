@@ -1,0 +1,81 @@
+# Compiled binary and object files
+bin/
+obj/
+out/
+
+# Build results
+*.exe
+*.dll
+*.pdb
+*.app
+*.ipa
+*.log
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# VS Code settings
+.vscode/
+
+# Visual Studio settings
+.vs/
+
+# ASP.NET temporary files
+**/wwwroot/lib/
+**/wwwroot/node_modules/
+
+# NuGet packages
+*.nupkg
+packages/
+*.snupkg
+
+# Entity Framework files (migrations build cache)
+Migrations/
+
+# Rider settings
+.idea/
+
+# Mac OS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# JetBrains Rider and ReSharper
+_ReSharper*/
+*.DotSettings.user
+
+# Dotnet CLI artifacts
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Auto-generated files
+Generated_Code/
+
+# Others
+*.db
+*.sqlite
+*.bak
+*.cache
+
+# Optional: ignore secrets or config overrides
+appsettings.Development.json
+secrets.json
+
+# Logs
+*.log
+
+# Test results
+TestResults/
+
+# Coverage results
+coverage/
+*.lcov
+*.coverage
+*.coveragexml
